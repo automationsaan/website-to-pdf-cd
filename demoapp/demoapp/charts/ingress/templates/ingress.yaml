@@ -13,7 +13,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: "demoapp.prod.devops.tentech.projects.apex-consulting.io"
+    - host: "demoapp.prod.webtopdf.automationsaan.click"
       http:
         paths:
           - path: /api
